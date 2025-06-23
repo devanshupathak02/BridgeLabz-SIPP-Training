@@ -1,4 +1,4 @@
-package ArrayPractice;
+
 import java.util.*;
 
 public class Student {
